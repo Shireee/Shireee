@@ -5,7 +5,7 @@
 About me:
 - 🌱 Learning web dev things
 - 🎯 Looking for a full time job
-- 🌍 Languages: RU(native), EN(~C1), JP(N5) 
+- 🌍 Languages: Ru(native), En(~C1), Jp(N5) 
 - ⚡ Fun fact: I draw sometimes, love phonk and math
 
 ## My stack
