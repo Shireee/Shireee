@@ -1,17 +1,31 @@
-### Hi there 👋
+# Yo!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shireee)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Shireee/Shireee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Vladimir, an undergraduate student at DSTU
 
-Here are some ideas to get you started:
+About me:
+- 🌱 learning web dev things
+- 🎯 looking for a full time job
+- ⚡ Fun fact: I draw sometimes, love phonk and math
+- 🌍 Languages: Ru(native), En(~C1), JP(N5) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My stack
+
+**Frontend**
+```
+JavaScript, HTML, CSS
+```
+
+**Backend**
+```
+PHP, SQL, yii2
+```
+
+**Mobile**
+```
+Android studio, Kotlin
+```
+
+**Other**
+```
+Figma, Photoshop, knowledge of Linux systems, git
+```
