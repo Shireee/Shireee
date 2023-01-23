@@ -3,8 +3,8 @@
 ## I'm Vladimir, an undergraduate student at DSTU
 
 About me:
-- 🌱 learning web dev things
-- 🎯 looking for a full time job
+- 🌱 Learning web dev things
+- 🎯 Looking for a full time job
 - 🌍 Languages: Ru(native), En(~C1), JP(N5) 
 - ⚡ Fun fact: I draw sometimes, love phonk and math
 
