@@ -12,7 +12,7 @@ About me:
 
 **Frontend**
 ```
-JavaScript, HTML, CSS
+JavaScript, HTML, SCSS & SASS
 ```
 
 **Backend**
