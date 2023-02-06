@@ -27,5 +27,5 @@ Android studio, Kotlin
 
 **Other**
 ```
-Figma, Photoshop, knowledge of Linux systems, git
+Figma, Photoshop, Linux systems, Git, Gulp
 ```
