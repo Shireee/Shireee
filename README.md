@@ -12,12 +12,12 @@ About me:
 
 **Frontend**
 ```
-JavaScript, HTML, SCSS & SASS
+JavaScript, HTML, SCSS & SASS, React
 ```
 
 **Backend**
 ```
-PHP, SQL, yii2
+Node.js + Express, MySQL, PostgreSQL, PHP
 ```
 
 **Mobile**
