@@ -3,8 +3,8 @@
 ## I'm Vladimir, Bachelor of Computer Science
 
 About me:
-- 🌱 Learning web dev things
-- 🎯 Looking for a full time job
+- 🌱 Learning dev things
+- 🎯 Looking for a new experience 
 - 🌍 Languages: Ru(native), En(~C1), Jp(N4) 
 - ⚡ Fun fact: I draw sometimes, love phonk and math
 
@@ -12,7 +12,7 @@ About me:
 
 **Frontend**
 ```
-JavaScript, HTML, SCSS & SASS, React
+JavaScript, HTML, SCSS & SASS
 ```
 
 **Backend**
@@ -27,5 +27,5 @@ Android studio, Kotlin
 
 **Other**
 ```
-Figma, Photoshop, Linux systems, Git, Gulp, Python
+Figma, Photoshop, Linux systems, Git, Gulp
 ```
