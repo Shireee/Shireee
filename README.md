@@ -3,29 +3,24 @@
 ## I'm Vladimir, graduate student of SFedU (Computer Science) 
 
 About me:
-- 🌱 Learning mobile-dev things
+- 🌱 Learning web-dev things
 - 🎯 Looking for a new experience 
-- 🌍 Languages: Ru(native), En(~C1), Jp(N4) 
+- 🌍 Languages: Ru(native), En(C1), Jp(N4) 
 - ⚡ Fun fact: I draw sometimes, love phonk and math
 
 ## My stack
 
-**Mobile**
-```
-Android studio, Kotlin
-```
-
 **Frontend**
 ```
-JavaScript, HTML, SCSS & SASS
+React, TypeScript, Webpack, SCSS & SASS, Figma
 ```
 
 **Backend**
 ```
-Node.js + Express, MySQL, PostgreSQL, PHP
+Node.js + Express, PostgreSQL, Postman
 ```
 
-**Other**
+**Others**
 ```
-Figma, Photoshop, Linux systems, Git, Gulp
+Android studio, Kotlin, Linux systems, Git
 ```
