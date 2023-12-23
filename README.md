@@ -12,7 +12,7 @@ About me:
 
 **Frontend**
 ```
-React, TypeScript, Webpack, SCSS & SASS, Figma
+React, TypeScript, Webpack, css-preprocessors, Figma
 ```
 
 **Backend**
@@ -22,5 +22,5 @@ Node.js + Express, PostgreSQL, Postman
 
 **Others**
 ```
-Android studio, Kotlin, Linux systems, Git
+React Native, Android studio, Kotlin, Linux systems, Git
 ```
