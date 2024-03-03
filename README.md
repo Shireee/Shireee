@@ -1,12 +1,12 @@
-# Hello, world !
+# Hello there👋
 
 ## I'm Vladimir, graduate student of SFedU (Computer Science) 
 
 About me:
-- 🌱 Learning web-dev things
+- 🚀 Currently a trainee at [RBRU](https://rbru.ru/company)
 - 🎯 Looking for a new experience 
 - 🌍 Languages: Ru(native), En(C1), Jp(N4) 
-- ⚡ Fun fact: I draw sometimes, love phonk and math
+- ☀️ Fun fact: I like learning languages and drawing
 
 ## My stack
 
